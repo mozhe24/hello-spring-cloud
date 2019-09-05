@@ -6,10 +6,10 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/mozhe24/hello-spring-cloud/spring-cloud-config
+          uri: https://github.com/mozhe24/spring-cloud-config
           search-paths: respo
-          username:
-          password:
+          username: 1037444979@qq.com
+          password: caodongjian1234
 #GitHub https://github.com/mozhe24/spring-cloud-config/respo目录
   boot:
     admin:

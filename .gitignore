@@ -1,2 +1,10 @@
 .idea/
 hello-spring-cloud.iml
+hello-spring-cloud-config/target/
+hello-spring-cloud-admin/target/
+hello-spring-cloud-eureka/target/
+hello-spring-cloud-service-admin/target/
+hello-spring-cloud-web-admin-feign/target/
+hello-spring-cloud-web-admin-ribbon/target/
+hello-spring-cloud-zipkin/target/
+hello-spring-cloud-zuul/target/

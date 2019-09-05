@@ -8,8 +8,9 @@ spring:
         git:
           uri: https://github.com/mozhe24/spring-cloud-config
           search-paths: respo
-          username: 1037444979@qq.com
-          password: caodongjian1234
+          username:
+          password:
+#GitHub https://github.com/mozhe24/spring-cloud-config/respo目录
   boot:
     admin:
       client:

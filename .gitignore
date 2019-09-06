@@ -1,5 +1,5 @@
 .idea/
-hello-spring-cloud.iml
+*.iml
 hello-spring-cloud-config/target/
 hello-spring-cloud-admin/target/
 hello-spring-cloud-eureka/target/
